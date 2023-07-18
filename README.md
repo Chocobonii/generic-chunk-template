@@ -1,5 +1,4 @@
-Hell hounds, is a small chatroom proyect which encrypts the chat using AES in order to prevent
-intruders from spying on your messages, this complete software is developed by Pentabonyx Labs
+it is a small chunk engine system
 
 to assemble the program it is required to execute the command as: 
 ```
@@ -9,7 +8,7 @@ RUN AS SUDO!!!!
 
 this program should try to setup the development environtent for the proyect
 * Steps to compile the program:
-	The program includes a custom script for building itself, this script basically will be in charge of assembling the entire program, and setting up the environment for development, but if we manually wanted to build the program, after we have the code, we will install the packages: krb5, libgcrypt, nettle, openssl, crypto++, freeglut, git and g++.To install these packages you are going to use your packet manager (this program was made for linux) In my case it’s PACMAN, as it’s the default packet manager that comes with arch linux.
+	The program includes a custom script for building itself, this script basically will be in charge of assembling the entire program, and setting up the environment for development, but if we manually wanted to build the program, after we have the code, we will install the packages:  freeglut, git and g++.To install these packages you are going to use your packet manager (this program was made for linux) In my case it’s PACMAN, as it’s the default packet manager that comes with arch linux.
 
 the command to install the packages is:
 ```
@@ -43,7 +42,7 @@ _______________________________________________________________________
 Please make sure to visit my website!!!!
  LINK: http://pentabonyx.slpmx.com/
 _______________________________________________________________________ 
- This is the complete code of Firestorm Source Engine written in C++ using OpenGL.
+ This is the complete code of Prism Source Engine written in C++ using OpenGL.
  It should be buildable on Windows and Linux, but it's not tested on windows.
 
  The code is all licensed under the terms of the GPL (gnu public license).  
